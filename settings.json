@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Criarpinto.aternos.me",
-    "port": 27586,
+    "ip": "Tiucap.aternos.me",
+    "port": 38335,
     "version": "1.21.11",
     "try-creative": false
   },
